@@ -1,0 +1,62 @@
+🎓 RiRi.Incart,Corping (formerly RiRi.Corp / RiRi.Inc)
+Software License Agreement — RPULO1
+Issued on: [A]
+date:[A]
+Note: The company name has been updated from RiRi.Inc / RiRi.Corp to RiRi.Incart,Corping (abbreviated: RiRi.Inc,Corp)
+
+Article 1: Agreement to the License
+By “using” this software (including but not limited to extraction, execution, installation, or downloading), you are deemed to have accepted this license agreement.
+
+Article 2: Scope of Application
+This license applies only to products officially provided by RiRi.Incart,Corping (formerly RiRi.Corp / RiRi.Inc) (hereinafter referred to as "the Company").
+It does not apply to unofficial or imitation products.
+
+Article 3: Disclaimer
+The Company shall bear no responsibility for any damages or malfunctions arising from the use of this software.
+
+Similarly, the Company shall not be liable for damages resulting from the use of counterfeit or unofficial products.
+
+Use this software entirely at your own risk.
+
+Article 4: Open Source Conditions
+This software is open source. Anyone may freely "use," "modify," "redistribute," and "publish" it under the following conditions:
+
+✅ Permitted Actions
+
+Free usage, modification, redistribution, and publication
+
+UI imitation (such as layout or user experience) is not restricted
+
+❌ Prohibited Actions
+
+Modifications or uses that violate any domestic or international law
+
+Use of names, appearances, or logos that may be mistaken for official Company products
+
+Uses that may harm the Company’s reputation
+
+Article 5: Credit and Logo Usage
+When modifying or redistributing the software, you must clearly state the following credit:
+
+"This program was created by modifying an open-source product from RiRi.Corp (formerly RiRi.Inc)."
+
+Do not use the Company’s logo without permission.
+
+❌ Not Allowed: [OpenUtility logo] + Alpha (may cause confusion with the official version)
+✅ Allowed: [OpenUtility logo] Modified Version (as long as there’s no misrepresentation)
+
+Article 6: Handling of Modified Versions
+Any modified version of the software (hereinafter referred to as “Modified Version”) must include this license without alteration.
+
+Ownership of the Modified Version is transferred to the modifier, but this license remains in effect (excluding Article 2).
+
+Article 7: Streaming and Content Creation
+You are free to use, stream, or present this software—including modified versions—on platforms such as YouTube, including monetization.
+
+Modified versions may only be distributed free of charge; paid sales are not permitted.
+
+Modified versions are also treated as open source and may be further modified and redistributed.
+
+The Company does not offer support for modified versions.
+
+⚠️ This license may not be modified or rewritten under any circumstances.
